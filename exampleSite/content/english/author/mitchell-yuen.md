@@ -1,5 +1,4 @@
 +++
-draft = true
 email = "mwhyuen@ gmail.com"
 image = ""
 social = []
